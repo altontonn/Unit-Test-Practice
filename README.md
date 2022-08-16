@@ -1,5 +1,6 @@
 # Unit-Test-Practice
-This is an exercise that involves unit testing for several coding tasks :dart
+This is an exercise that involves unit testing for several coding tasks
+
 Task one
 
 - length of strings
